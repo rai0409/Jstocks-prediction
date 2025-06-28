@@ -1,0 +1,8 @@
+# 巨大CSVファイルはGitHubにアップロードしない
+data/
+data/Group1_Industry_Materials.csv
+data/Group2_Consumers.csv
+data/Group3_Tech_Comm_Utilities.csv
+data/Group4_Finance_Health_Energy.csv
+
+checkpoints/
