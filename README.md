@@ -15,6 +15,7 @@ CatBoostでの財務指標や経済指標分析、FinBERTでの感情分析を�
 
 プロジェクト構成
 Jstocks-Github/
+
 ├── data/https://drive.google.com/drive/folders/1A-914ta8x5X8TBnizcGE9YR7NpfOa3tj?usp=sharing
 │   ├── Group1_Industry_Materials.csv
 │   ├── Group2_Consumers.csv
