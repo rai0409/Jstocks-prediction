@@ -17,25 +17,25 @@ CatBoostでの財務指標や経済指標分析、FinBERTでの感情分析を�
 Jstocks-Github/
 
 ├── data/https://drive.google.com/drive/folders/1A-914ta8x5X8TBnizcGE9YR7NpfOa3tj?usp=sharing
-
+│
 │   ├── Group1_Industry_Materials.csv
-
+│   │
 │   ├── Group2_Consumers.csv
-
+│   │
 │   ├── Group3_Tech_Comm_Utilities.csv
-
+│   │
 │   └── Group4_Finance_Health_Energy.csv
-
+│
 ├── images/
 │   ├── actual_vs_prediction_Group1_Industry_Materials.png
 │   ├──actual_vs_prediction_Group2_Consumers.png
 │   ├──actual_vs_prediction_Group3_Tech_Comm_Utilities.png
 │   └──actual_vs_prediction_Group4_Finance_Health_Energy.png
-
+│
 ├── src/
-
+│
 │   └── main.py                # モデルの学習と評価
-
+│
 ├── results.csv                # グループごとのMAE / RMSE結果
 ├── environment.yml            # 必要なPythonパッケージ一覧
 ├── README.md                  # このドキュメント
