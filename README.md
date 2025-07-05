@@ -55,8 +55,11 @@ conda activate jstocks-env
 data/ フォルダに以下のようにCSVデータを配置してください：
 
 Group1_Industry_Materials.csv
+
 Group2_Consumers.csv
+
 Group3_Tech_Comm_Utilities.csv
+
 Group4_Finance_Health_Energy.csv
 
 以下のコマンドでメインスクリプトを実行：
