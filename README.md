@@ -37,8 +37,11 @@ Jstocks-Github/
 │   └── main.py                # モデルの学習と評価
 
 ├── results.csv                # グループごとのMAE / RMSE結果
+
 ├── environment.yml            # 必要なPythonパッケージ一覧
+
 ├── README.md                  # このドキュメント
+
 └── .gitignore                 # チェックポイントやログの除外設定
 
 環境構築方法
