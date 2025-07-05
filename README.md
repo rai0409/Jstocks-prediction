@@ -19,11 +19,11 @@ Jstocks-Github/
 ├── data/https://drive.google.com/drive/folders/1A-914ta8x5X8TBnizcGE9YR7NpfOa3tj?usp=sharing
 │
 │   ├── Group1_Industry_Materials.csv
-│   │
+│   
 │   ├── Group2_Consumers.csv
-│   │
+│   
 │   ├── Group3_Tech_Comm_Utilities.csv
-│   │
+│   
 │   └── Group4_Finance_Health_Energy.csv
 │
 ├── images/
