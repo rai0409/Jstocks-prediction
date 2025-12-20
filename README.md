@@ -1,6 +1,7 @@
 Temporal Fusion Transformer (TFT) による株価予測AI
 
 概要
+
 このプロジェクトは、PyTorch Forecasting と Lightning を使用し、
 Temporal Fusion Transformer (TFT) に基づいて構築された 株価予測AI モデルです。
 TOPIX1000に2010年以前から上場され続けている企業(2025年4月時点）を特徴別に
@@ -14,6 +15,7 @@ CatBoostでの財務指標や経済指標分析、FinBERTでの感情分析を�
 
 
 プロジェクト構成
+
 Jstocks-Github/
 
 ├── data/https://drive.google.com/drive/folders/1A-914ta8x5X8TBnizcGE9YR7NpfOa3tj?usp=sharing
@@ -44,9 +46,11 @@ Jstocks-Github/
 
 └── .gitignore                 # チェックポイントやログの除外設定
 
+
 環境構築方法
 environment.yml を使って仮想環境を作成
 conda env create -f environment.yml
+
 
 環境をアクティベート
 conda activate jstocks-env
