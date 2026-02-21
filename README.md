@@ -91,5 +91,3 @@ python src/main.py
 
 GPUが利用可能な場合は自動的にGPUで学習されます（torch.cuda.is_available() を使用）
 
-ライセンス
-このプロジェクトは MIT ライセンスのもとで公開されています。
